@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`Sistemas de Informação - PUC Minas Virtual`
+Sistemas de Informação - PUC Minas Virtual
 
-`Eixo 1 - Projeto: Aplicações Web`
+Eixo 1 - Projeto: Aplicações Web
 
-`1º semestre/2021`
+1º semestre/2021
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
