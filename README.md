@@ -1,21 +1,24 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Sistemas de Informação - PUC Minas Virtual`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Aplicações Web`
 
-`SEMESTRE`
+`1º semestre/2021`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Alexsandro Salles De Souza Filho
+- José Felippe Drummond de Sales
+- Josuê Alcântara Sousa Brandão
+- Mariana Camilo De Oliveira Carmona
+- Solange Peralta
 
 ## Professor
 
-- Mestre Yoda
+- Hugo Bastos De Paula
 
 # Documentação
 
