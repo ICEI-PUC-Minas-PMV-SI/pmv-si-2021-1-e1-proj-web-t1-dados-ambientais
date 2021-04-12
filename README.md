@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 - Josuê Alcântara Sousa Brandão
 - Mariana Camilo De Oliveira Carmona
 - Solange Peralta
-
+- Sergio Pereira da Costa Filho
 ## Professor
 
 - Hugo Bastos De Paula
