@@ -16,12 +16,16 @@ Nesse contexto, a ampla divulgação destes dados seria de extrema importância,
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### Objetivo Geral
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Elaborar uma aplicação web para disponibilização de dados de tratamento e disposição de efluentes líquidos domésticos da região sudestetendo como foco inicial o município de Belo Horizonte/MG. 
+
+### Objetivos específicos 
+
+- Criar um banco de dados que reúna os dados de efluentes e dos cursos d’água na região de abrangência; 
+- Definir uma maneira de exibir os dados de forma clara e objetiva; 
+- Criar um website onde os dados possam ser expostos; 
+- Publicar o site para o público em geral.
 
 ## Justificativa
 
