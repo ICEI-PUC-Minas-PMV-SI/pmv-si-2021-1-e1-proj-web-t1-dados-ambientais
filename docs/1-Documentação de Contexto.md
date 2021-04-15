@@ -38,7 +38,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-O Projeto em questão, tem como público-alvo a população do Município de Belo Horizonte, geradores de resíduos domésticos in natura nos cursos d´água da região citada anteriormente, onde, a ocupação urbana abrange 95% de seu território, sendo o restante destinado às áreas de proteção ambiental e às áreas de parques.
+O Projeto em questão, tem como público-alvo a população do Município de Belo Horizonte, usuária dos serviços de saneamento e geradores de resíduos domésticos in natura nos cursos d´água da região citada anteriormente, onde, a ocupação urbana abrange 95% de seu território, sendo o restante destinado às áreas de proteção ambiental e às áreas de parques.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
