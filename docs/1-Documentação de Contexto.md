@@ -29,12 +29,7 @@ Elaborar uma aplicação web para disponibilização de dados de tratamento e di
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A motivação para o desenvolvimento desse projeto se pauta na divulgação de dados relevantes a respeito do tratamento de água e esgoto e detalhes de como essas operações são feitas em cada município. Informações essas que poderiam ser significativamente mais úteis se apresentadas de forma didática e intuitiva para o público interessado. Valores, tarifas, receitas, porcentagem de coleta e tratamento de esgoto, dentre outros dados que estão disponíveis no SNIS, e que se encontram em inúmeras planilhas que dificultam o entendimento de quem não tem o costume de acessar dados dessa forma com frequência. A partir disso, ao possibilitar que o acesso à informação se torne mais abrangente, o conhecimento pode gerar ações imprescindíveis para o benefício da sociedade. Francis Bacon afirmou que “O conhecimento é em si mesmo um poder”, e em tempos onde fake news são compartilhadas em massa, informações seguras, confiáveis e bem apresentadas se tornam cada vez mais necessárias.
 
 ## Público-Alvo
 
