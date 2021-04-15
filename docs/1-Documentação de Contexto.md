@@ -18,7 +18,7 @@ Nesse contexto, a ampla divulgação destes dados seria de extrema importância,
 
 ### Objetivo Geral
 
-Elaborar uma aplicação web para disponibilização de dados de tratamento e disposição de efluentes líquidos domésticos da região sudestetendo como foco inicial o município de Belo Horizonte/MG. 
+Elaborar uma aplicação web para disponibilização de dados de tratamento e disposição de efluentes líquidos domésticos da região sudeste. 
 
 ### Objetivos específicos 
 
