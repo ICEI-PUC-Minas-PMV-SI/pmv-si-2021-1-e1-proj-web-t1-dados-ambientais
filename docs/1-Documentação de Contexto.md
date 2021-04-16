@@ -23,8 +23,7 @@ Elaborar uma aplicação web para disponibilização de dados de tratamento e di
 ### Objetivos específicos 
 
 - Criar um banco de dados que reúna os dados de efluentes e dos cursos d’água na região de abrangência; 
-- Definir uma maneira de exibir os dados de forma clara e objetiva; 
-- Criar um website onde os dados possam ser expostos; 
+- Criar um website onde os dados possam ser expostos de forma clara e objetiva; 
 - Publicar o site para o público em geral.
 
 ## Justificativa
