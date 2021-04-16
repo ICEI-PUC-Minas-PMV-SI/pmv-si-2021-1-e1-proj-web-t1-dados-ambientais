@@ -10,7 +10,7 @@ Nesse quesito, a disponibilização de dados é essencial para a gestão e trans
 
 ## Problema
 
-Apesar da disponibilidade dos dados, verifica-se na página do SNIS que os dados são divulgados em forma de planilha de dados agregados ou dados brutos. A divulgação dos dados, no entanto, carece de uma apresentação que possa agregar informação à população de forma a facilitar a compreensão da situação do esgotamento sanitário nos diversos municípios. A plataforma ainda carece de informações de dados ambientais como a qualidade de efluentes e dos cursos d’água onde esses são lançados. 
+Apesar da disponibilidade dos dados, verifica-se na página do SNIS que os dados são divulgados em forma de planilha de dados agregados ou dados brutos. Valores, tarifas, receitas, porcentagem de coleta e tratamento de esgoto, dentre outros dados que estão disponíveis no SNIS, e que se encontram em inúmeras planilhas que dificultam o entendimento de quem não tem o costume de acessar dados dessa forma com frequência. A divulgação dos dados, no entanto, carece de uma apresentação que possa agregar informação à população de forma a facilitar a compreensão da situação do esgotamento sanitário nos diversos municípios. A plataforma ainda carece de informações de dados ambientais como a qualidade de efluentes e dos cursos d’água onde esses são lançados. 
 
 Nesse contexto, a ampla divulgação destes dados seria de extrema importância, pois de posse desses, os diversos interessados poderiam cobrar das autoridades ações relativas à água e os efluentes que nelas são lançados. Dessa forma este projeto busca resolver a seguinte questão: _Onde a população e as entidades do terceiro setor podem buscar informações relevantes e de forma didática sobre o esgotamento sanitário do seu município?_
 
@@ -29,7 +29,7 @@ Elaborar uma aplicação web para disponibilização de dados de tratamento e di
 
 ## Justificativa
 
-A motivação para o desenvolvimento desse projeto se pauta na divulgação de dados relevantes a respeito do tratamento de água e esgoto e detalhes de como essas operações são feitas em cada município. Informações essas que poderiam ser significativamente mais úteis se apresentadas de forma didática e intuitiva para o público interessado. Valores, tarifas, receitas, porcentagem de coleta e tratamento de esgoto, dentre outros dados que estão disponíveis no SNIS, e que se encontram em inúmeras planilhas que dificultam o entendimento de quem não tem o costume de acessar dados dessa forma com frequência. A partir disso, ao possibilitar que o acesso à informação se torne mais abrangente, o conhecimento pode gerar ações imprescindíveis para o benefício da sociedade. Francis Bacon afirmou que “O conhecimento é em si mesmo um poder”, e em tempos onde fake news são compartilhadas em massa, informações seguras, confiáveis e bem apresentadas se tornam cada vez mais necessárias.
+Ao possibilitar que o acesso à informação se torne mais abrangente, o conhecimento pode gerar ações imprescindíveis para o benefício da sociedade. Francis Bacon afirmou que “O conhecimento é em si mesmo um poder”, e em tempos onde fake news são compartilhadas em massa, informações seguras, confiáveis e bem apresentadas se tornam cada vez mais necessárias.
 
 ## Público-Alvo
 
