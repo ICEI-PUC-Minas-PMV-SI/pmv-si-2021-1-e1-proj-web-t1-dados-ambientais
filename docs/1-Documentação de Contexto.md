@@ -1,6 +1,6 @@
 # Introdução
 
-Os efluentes líquidos gerados pelas diversas atividades humanas são potencialmente danosas às coleções de água. Segundo a Associação Brasileira de Engenharia Sanitária três dos principais rios poluídos do Brasil se encontram na região Sudeste (colocar referência), local que, segundo o [IBGE (2016)](https://biblioteca.ibge.gov.br/visualizacao/livros/liv99700.pdf) possui as maiores concentrações urbanas do Brasil. 
+Os efluentes líquidos gerados pelas diversas atividades humanas são potencialmente danosas às coleções de água. A região sudeste do Brasil é banhada por importantes rios como o São Francisco, Doce, Tietê e Paraíba do Sul, cursos d'água que sofrem importantes impactos por receberem efluentes líquidos das cidades construídas às duas margens. A região Sudeste, segundo o [IBGE (2016)](https://biblioteca.ibge.gov.br/visualizacao/livros/liv99700.pdf) possui as maiores concentrações urbanas do Brasil, sendo estas potenciais polidores das águas dos rios que cruzam a região.
 
 Os impactos gerados pelos lançamentos de efluentes domésticos em cursos d’água podem ser diversos, segundo von Sperling (1996), existem diversos constituintes no esgoto que podem causar a toxicidade para peixes e plantas, proporcionar condições sépticas à água, o crescimento excessivo de algas, o consumo do oxigênio disponível, dentre outros. Todos estes impactos, portanto, podem afetar a vida aquática e daqueles organismos que dependem dela, incluindo também a saúde humana e a economia. 
 
