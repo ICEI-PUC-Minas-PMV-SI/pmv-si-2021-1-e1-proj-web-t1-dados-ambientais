@@ -29,7 +29,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |ONG                 | Visualizar informações             | Direcionar planos de ação              |
-|Cidadão Comum       | Visualizar informações             | Direcionar planos de ação              |
+|Cidadão Comum       | Visualizar informações             | Conhecimento e cobrança de medidas     |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 1. Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso visualizar informações a respeito da situação da coleta e tratamento de esgoto nas cidades de atuação da minha instituição para direcionar os planos de ação e ajudar mais ativamente na preservação ambiental.
