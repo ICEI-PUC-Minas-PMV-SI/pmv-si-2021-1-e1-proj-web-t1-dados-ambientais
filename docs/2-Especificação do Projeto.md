@@ -8,9 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+1. Salvando o Verde é uma ONG criada em 2017 pela bióloga Eva Carvalho juntamente ao seu marido José de Souza. A organização nasceu pelo desejo de Eva em tornar sua formação e área de pesquisa ainda mais ativa dentro do meio científico, proporcionando ações concretas e agregando pessoas dispostas a sua missão de preservação ambiental. Desde antes de sua fundação, Eva já procurava voluntários interessados em colaborar com os objetivos da instituição. Diversas campanhas foram realizadas através das redes sociais e a ONG é cada vez mais ativa nesse canal de comunicação. Eva entende que a população e os formadores de opinião têm um papel fundamental no convencimento das autoridades, de forma a garantirem o acesso de todos aos serviços de saneamento básico. É tanto que a na fundação da instituição essa ideia está expressa na visão da ONG, que tem como princípio informar as pessoas para promover a mudança. As mídias são parte essencial do trabalho pois expõe ao público os importantes serviços prestados para essa nobre causa. Muito ligada ao meio digital, porém pouco entendida sobre o assunto, Eva busca meios mais fáceis e intuitivos de obter informações a respeito do serviço de saneamento das cidades em que a ONG atua. Segundo ela, o acesso fácil a esses dados são parte chave dos planos de ação, facilitando a cobrança das empresas prestadoras de serviços ligados ao tratamento de esgoto e possibilitando a mobilização de pessoas em prol de exigir mudanças. A ONG ainda participa ativamente junto aos órgãos licenciadores e tem a EVA como conselheira nos Conselhos de Política Ambiental, que são órgãos colegiados que deliberam em nível estadual sobre as políticas de meio ambiente, concedem licenciamento ambiental aos empreendimentos, dentre outros.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -28,10 +26,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|ONG                 | Visualizar informações             | direcionar planos de ação              |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso visualizar informações a respeito da situação da coleta e tratamento de esgoto nas cidades de atuação da minha instituição para direcionar os planos de ação e ajudar mais ativamente na preservação ambiental.
+
+Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso de acesso rápido aos dados do tratamento de esgoto, da eficiência do tratamento e da qualidade da água dos cursos d’água onde são lançados os efluentes tratados nas cidades de atuação da minha instituição para que em uma reunião de licenciamento de um empreendimento possa analisar com agilidade a situação dos empreendimentos de esgotamento sanitário, poder questionar o empreendedor quanto a esses dados e tomar decisões acertadas.
+
+Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso ter acesso material didático sobre o esgotamento sanitário para repassar em palestras sobre saneamento a real situação do saneamento nas cidades em que a minha instituição atua.
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
