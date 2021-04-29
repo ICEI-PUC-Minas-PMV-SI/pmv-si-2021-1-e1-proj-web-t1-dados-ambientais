@@ -40,7 +40,7 @@ Eu como responsável por uma ONG atuante na área de saneamento básico quero/pr
 
 2. Eliana como cidadã brasileira sem acesso ao saneamento básico quer/precisa visualizar informações a respeito da situação da coleta e tratamento de esgoto da sua região e assim cobrar das autoridades competentes as medidas necessárias para solucionar este problema.
 
-Eliana omo cidadã brasileira sem acesso ao saneamento básico quer/precisa de acesso rápido aos dados do tratamento de esgoto, da eficiência do tratamento e da qualidade da água dos cursos d’água onde são lançados os efluentes tratados em sua região para cobrar das autoridades competentes ações emergenciais, e agilidade no processo de análise da situação dos empreendimentos de esgotamento sanitário investidos na mesma, e assim, poder questionar o poder público quanto a esses dados e cobrar também das autoridades locais.
+Eliana como cidadã brasileira sem acesso ao saneamento básico quer/precisa de acesso rápido aos dados do tratamento de esgoto, da eficiência do tratamento e da qualidade da água dos cursos d’água onde são lançados os efluentes tratados em sua região para cobrar das autoridades competentes ações emergenciais, e agilidade no processo de análise da situação dos empreendimentos de esgotamento sanitário investidos na mesma, e assim, poder questionar o poder público quanto a esses dados e cobrar também das autoridades locais.
 
 Eliana como cidadã brasileira, trabalhadora, mãe de família e sem acesso ao saneamento básico quer/precisa ter acesso a materiais didáticos sobre o esgotamento sanitário para entender, da melhor forma possível, os sérios impactos causados pela situação, com a qual, lida diariamente e que traz diversos transtornos, em vários aspectos de sua vida e na de sua família.
 
