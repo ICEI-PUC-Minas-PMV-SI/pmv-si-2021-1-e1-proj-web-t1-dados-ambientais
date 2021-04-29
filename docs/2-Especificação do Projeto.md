@@ -27,8 +27,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|ONG                 | Visualizar informações             | Direcionar planos de ação              |
+|--|--|--|
+|ONG                 | Visualizar informaçõesde investimento em infraestrutura de esgoto | Direcionar planos de ação e elaborar projetos de lei   |
 |Cidadão Comum       | Visualizar informações             | Conhecimento e cobrança de medidas     |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
