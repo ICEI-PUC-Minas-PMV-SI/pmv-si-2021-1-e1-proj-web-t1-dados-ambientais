@@ -28,8 +28,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--|--|--|
-|ONG                 | Visualizar informaçõesde investimento em infraestrutura de esgoto | Direcionar planos de ação e elaborar projetos de lei   |
-|Cidadão Comum       | Visualizar informações             | Conhecimento e cobrança de medidas     |
+|ONG                 | Visualizar informações de investimento em infraestrutura de esgoto | Direcionar planos de ação e elaborar projetos de lei   |
+|Cidadão Comum       | Encontrar informações sobre meus direitos em relação a saneamento básico | cobrar providências de órgãos competentes |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 1. Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso visualizar informações a respeito da situação da coleta e tratamento de esgoto nas cidades de atuação da minha instituição para direcionar os planos de ação e ajudar mais ativamente na preservação ambiental.
