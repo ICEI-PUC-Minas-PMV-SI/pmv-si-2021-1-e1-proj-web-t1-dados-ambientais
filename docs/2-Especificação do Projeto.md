@@ -33,10 +33,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 1. Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso visualizar informações a respeito da situação da coleta e tratamento de esgoto nas cidades de atuação da minha instituição para direcionar os planos de ação e ajudar mais ativamente na preservação ambiental.
-
-1. Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso de acesso rápido aos dados do tratamento de esgoto, da eficiência do tratamento e da qualidade da água dos cursos d’água onde são lançados os efluentes tratados nas cidades de atuação da minha instituição para que em uma reunião de licenciamento de um empreendimento possa analisar com agilidade a situação dos empreendimentos de esgotamento sanitário, poder questionar o empreendedor quanto a esses dados e tomar decisões acertadas.
-
-1. Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso ter acesso material didático sobre o esgotamento sanitário para repassar em palestras sobre saneamento a real situação do saneamento nas cidades em que a minha instituição atua.
+Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso de acesso rápido aos dados do tratamento de esgoto, da eficiência do tratamento e da qualidade da água dos cursos d’água onde são lançados os efluentes tratados nas cidades de atuação da minha instituição para que em uma reunião de licenciamento de um empreendimento possa analisar com agilidade a situação dos empreendimentos de esgotamento sanitário, poder questionar o empreendedor quanto a esses dados e tomar decisões acertadas.
+Eu como responsável por uma ONG atuante na área de saneamento básico quero/preciso ter acesso material didático sobre o esgotamento sanitário para repassar em palestras sobre saneamento a real situação do saneamento nas cidades em que a minha instituição atua.
 
 
 > **Links Úteis**:
