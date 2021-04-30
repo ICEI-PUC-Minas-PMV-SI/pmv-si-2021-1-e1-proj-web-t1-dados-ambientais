@@ -12,16 +12,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 2. Eliana tem 26 anos, é casada, mãe de família, possui uma renda equivalente a um salário mínimo, não possui plano de saúde, paga seus impostos e reside em uma área irregular de uma capital, localizada na região Sudeste do país. Na região onde mora, os esgotos não são coletados, nem tratados, além da falta de abastecimento de água, que é conseguida através de furtos, por meios de ligações clandestinas. Partindo destes pressupostos, devida à falta de informação, a devida importância para tal, e quão sérios são os impactos causados em sua vida, advindos destes fatores, Eliana não compreende que, como cidadã, o acesso ao saneamento básico é um direito seu, garantido por lei e o mesmo deve ser cobrado dos governantes responsáveis pelo seu município.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
