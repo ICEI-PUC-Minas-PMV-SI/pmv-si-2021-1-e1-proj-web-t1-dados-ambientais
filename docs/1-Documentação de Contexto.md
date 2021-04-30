@@ -18,13 +18,13 @@ Nesse contexto, a ampla divulgação destes dados seria de extrema importância,
 
 ### Objetivo Geral
 
-Elaborar uma aplicação web para disponibilização de dados de tratamento e disposição de efluentes líquidos domésticos da região sudeste. 
+Elaborar uma aplicação web para disponibilização de dados de tratamento e disposição de efluentes líquidos domésticos da Região Sudeste. 
 
 ### Objetivos específicos 
 
 - Criar um banco de dados que reúna os dados de efluentes e dos cursos d’água na região de abrangência; 
 - Criar um website onde os dados possam ser expostos de forma clara e objetiva; 
-- Publicar o site para o público em geral.
+- Disponibilizar o site para o público em geral.
 
 ## Justificativa
 
