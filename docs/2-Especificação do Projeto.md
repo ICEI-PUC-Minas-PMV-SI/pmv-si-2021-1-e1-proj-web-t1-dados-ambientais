@@ -13,7 +13,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 2. Eliana tem 26 anos, é casada, mãe de família, possui uma renda equivalente a um salário mínimo, não possui plano de saúde, paga seus impostos e reside em uma área irregular de uma capital, localizada na região Sudeste do país. Na região onde mora, os esgotos não são coletados, nem tratados, além da falta de abastecimento de água, que é conseguida através de furtos, por meios de ligações clandestinas. Partindo destes pressupostos, devida à falta de informação, a devida importância para tal, e quão sérios são os impactos causados em sua vida, advindos destes fatores, Eliana não compreende que, como cidadã, o acesso ao saneamento básico é um direito seu, garantido por lei e o mesmo deve ser cobrado dos governantes responsáveis pelo seu município.
 
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -36,7 +35,6 @@ Eliana como cidadã brasileira sem acesso ao saneamento básico quer/precisa de 
 
 Eliana como cidadã brasileira, trabalhadora, mãe de família e sem acesso ao saneamento básico quer/precisa ter acesso a materiais didáticos sobre o esgotamento sanitário para entender, da melhor forma possível, os sérios impactos causados pela situação, com a qual, lida diariamente e que traz diversos transtornos, em vários aspectos de sua vida e na de sua família.
 
-
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
@@ -47,7 +45,6 @@ Eliana como cidadã brasileira, trabalhadora, mãe de família e sem acesso ao s
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
 
 ### Requisitos Funcionais
 
