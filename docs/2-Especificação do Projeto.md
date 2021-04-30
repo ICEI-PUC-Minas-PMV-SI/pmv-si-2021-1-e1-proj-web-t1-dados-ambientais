@@ -6,11 +6,13 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
+
 ## Personas
 
 1. Salvando o Verde é uma ONG criada em 2017 pela bióloga Eva Carvalho juntamente ao seu marido José de Souza. A organização nasceu pelo desejo de Eva em tornar sua formação e área de pesquisa ainda mais ativa dentro do meio científico, proporcionando ações concretas e agregando pessoas dispostas a sua missão de preservação ambiental. Desde antes de sua fundação, Eva já procurava voluntários interessados em colaborar com os objetivos da instituição. Diversas campanhas foram realizadas através das redes sociais e a ONG é cada vez mais ativa nesse canal de comunicação. Eva entende que a população e os formadores de opinião têm um papel fundamental no convencimento das autoridades, de forma a garantirem o acesso de todos aos serviços de saneamento básico. É tanto que a na fundação da instituição essa ideia está expressa na visão da ONG, que tem como princípio informar as pessoas para promover a mudança. As mídias são parte essencial do trabalho pois expõe ao público os importantes serviços prestados para essa nobre causa. Muito ligada ao meio digital, porém pouco entendida sobre o assunto, Eva busca meios mais fáceis e intuitivos de obter informações a respeito do serviço de saneamento das cidades em que a ONG atua. Segundo ela, o acesso fácil a esses dados são parte chave dos planos de ação, facilitando a cobrança das empresas prestadoras de serviços ligados ao tratamento de esgoto e possibilitando a mobilização de pessoas em prol de exigir mudanças. A ONG ainda participa ativamente junto aos órgãos licenciadores e tem a EVA como conselheira nos Conselhos de Política Ambiental, que são órgãos colegiados que deliberam em nível estadual sobre as políticas de meio ambiente, concedem licenciamento ambiental aos empreendimentos, dentre outros.
 
 2. Eliana tem 26 anos, é casada, mãe de família, possui uma renda equivalente a um salário mínimo, não possui plano de saúde, paga seus impostos e reside em uma área irregular de uma capital, localizada na região Sudeste do país. Na região onde mora, os esgotos não são coletados, nem tratados, além da falta de abastecimento de água, que é conseguida através de furtos, por meios de ligações clandestinas. Partindo destes pressupostos, devida à falta de informação, a devida importância para tal, e quão sérios são os impactos causados em sua vida, advindos destes fatores, Eliana não compreende que, como cidadã, o acesso ao saneamento básico é um direito seu, garantido por lei e o mesmo deve ser cobrado dos governantes responsáveis pelo seu município.
+
 
 ## Histórias de Usuários
 
@@ -45,6 +47,7 @@ Eliana como cidadã brasileira, trabalhadora, mãe de família e sem acesso ao s
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
 
 ### Requisitos Funcionais
 
