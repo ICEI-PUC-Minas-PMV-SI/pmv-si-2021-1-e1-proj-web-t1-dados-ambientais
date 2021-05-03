@@ -38,8 +38,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitar a consulta, alterações e exclusão de dados pessoais do usuário | ALTA | 
+|RF-002| O sistema deve permitir o cadastro de novos usuários, realizando a validação através de um e-mail de confirmação | ALTA |
+|RF-003| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado | ALTA |
+|RF-004| Consulta de gráficos, relatórios entre outros dados, relativos ao saneamento básico | ALTA |
+|RF-005| Consulta de informações sobre Órgãos Competentes |ALTA|
 
 
 ### Requisitos não Funcionais
@@ -48,6 +51,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com O.S. Windows, Linux e macOS | ALTA |
+|RNF-004| O sistema deve respeitar o tempo máximo de 160 segundos durante processamentos | MEDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
