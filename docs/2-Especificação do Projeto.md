@@ -39,9 +39,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-------------------------|----|
 |RF-001| O sistema deve permitar a consulta, alterações e exclusão de dados pessoais do usuário | ALTA | 
-|RF-002| O sistema deve permitir o cadastro de novos usuários, realizando a validação através de um e-mail de confirmação | ALTA |
+|RF-002| O sistema deve permitir realizar a validação do usuário através de um e-mail de confirmação | ALTA |
 |RF-003| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado | ALTA |
-|RF-004| Consulta de gráficos, relatórios entre outros dados, relativos ao saneamento básico | ALTA |
+|RF-004| Consulta de gráficos, relatórios entre outros, sobre saneamento básico | ALTA |
 |RF-005| Consulta de informações sobre Órgãos Competentes |ALTA|
 
 
