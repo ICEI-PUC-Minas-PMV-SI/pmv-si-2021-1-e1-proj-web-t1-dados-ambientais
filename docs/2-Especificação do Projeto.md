@@ -13,6 +13,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 2. Franciso tem 26 anos, é casado, pai de família, possui uma renda equivalente a três salário mínimos, possui plano de saúde, paga seus impostos e reside na zona leste de Belo Horizonte, capital de Minas Gerais, localizada na região Sudeste do país. Na região onde mora, existe o acesso ao saneamento básico, porém, existe a  necessidade de informações mais claras e consolidadas, relativas ao saneamento básico, quais são os seus direitos como cidadão e quais os órgãos compententes responsáveis por tais questões, para que, se necessário, cobranças e medidas sejam solicitadas.
 
+3. Felipe tem 17 anos, mora em Belo Horizonte com sua mãe e seu pai, é estudante do ensino médio, estuda em uma escola particular boa da região, é esforçado e sempre busca tirar notas boas. Ele tem um trabalho de Biologia para entregar é precisa de dados confiáveis sobre saneamento básico em sua cidade que sejam de fácil acesso e de simples entendimento para usar em seu trabalho.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -22,7 +24,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |ONG                 | Visualizar informações de investimento em infraestrutura de esgoto | Direcionar planos de ação e elaborar projetos de lei   |
 |Cidadão Comum       | Encontrar informações sobre saneamento básico e direitos constitucionais sobre tal | Cobrar providências de Órgãos competentes |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
+|Estudante           | Encontrar informações sobre saneamento básico e a fonte sobre essa informação | para fazer um trabalho da escola/faculdade |
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
