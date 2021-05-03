@@ -20,7 +20,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--|--|--|
 |ONG                 | Visualizar informações de investimento em infraestrutura de esgoto | Direcionar planos de ação e elaborar projetos de lei   |
-|Cidadão Comum       | Encontrar informações sobre saneamento básico direitos em relação ao saneamento básico | Cobrar providências de Órgãos competentes |
+|Cidadão Comum       | Encontrar informações sobre saneamento básico e direitos constitucionais sobre tal | Cobrar providências de Órgãos competentes |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > **Links Úteis**:
