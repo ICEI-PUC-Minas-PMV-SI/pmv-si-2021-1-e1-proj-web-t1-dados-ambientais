@@ -37,7 +37,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|------|-------------------------|----|
 |RF-001| O sistema deve permitar a consulta, alterações e exclusão de dados pessoais do usuário | ALTA | 
 |RF-002| O sistema deve permitir o cadastro de novos usuários, realizando a validação através de um e-mail de confirmação | ALTA |
 |RF-003| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado | ALTA |
