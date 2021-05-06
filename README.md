@@ -12,7 +12,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 - [Alexsandro Salles de Souza Filho](https://github.com/sallesalex01 "Alexsandro Salles de Souza Filho")
 - Gilvanio Gonçalves dos Santos
-- [José Felippe Drummond de Sales](https://github.com/josefdsales "José Felippe Drummond de Sales")
 - [Mariana Camilo De Oliveira Carmona](https://github.com/MaryyCarmona "Mariana Camilo De Oliveira Carmona")
 - [Sergio Pereira da Costa Filho](https://github.com/sergioson "Sergio Pereira da Costa Filho")
 - [Solange Peralta](https://github.com/psysolange "Solange Peralta")
