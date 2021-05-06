@@ -42,11 +42,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| O sistema deve permitir realizar a validação do usuário através de um e-mail de confirmação | ALTA |
 |RF-003| Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado | ALTA |
 |RF-004| Consulta de gráficos, relatórios entre outros, sobre saneamento básico | ALTA |
-|RF-005| Consulta de informações sobre Órgãos Competentes: 
-Prefeituras - São Paulo - SP: http://www.capital.sp.gov.br/ 
-Belo Horizonte - MG: https://prefeitura.pbh.gov.br/ 
-Rio de Janeiro - RJ: https://prefeitura.rio/ 
-Vitória - ES: https://www.vitoria.es.gov.br/ |ALTA|
+|RF-005| Consulta de informações sobre Órgãos Competentes: Prefeituras - São Paulo - SP: http://www.capital.sp.gov.br/ Belo Horizonte - MG: https://prefeitura.pbh.gov.br/ Rio de Janeiro - RJ: https://prefeitura.rio/ Vitória - ES: https://www.vitoria.es.gov.br/ |ALTA|
 
 
 ### Requisitos não Funcionais
