@@ -53,11 +53,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com O.S. Windows, Linux e macOS | ALTA |
 |RNF-004| O sistema deve respeitar o tempo máximo de 160 segundos durante processamentos | MEDIA |
-
-
-|ID     |  Nome  | Descrição do Requisito  | Categoria| |Prioridade |
-|-------|--------|-------------------------|----------|-------------|
-|RNF-001| Autenticação de usuário para consumo de website| Cada usuário dos website deverá possuir um usuário ativo no sistema.| Segurança | ALTA | 
+|RNF-005| A interface deve ser agradável e de fácil utilização | ALTA 
+|RNF-006| O sistema deve ter uma boa usabilidade | MEDIA |
+|RNF-007| O cadastro do usuário não poderá ser realizado caso já exista algum usuário registrado com o mesmo e-mail e login informado | ALTA |
+|RFN-008| As imagens submetidas no sistema deverão estar em um nos formatos jpg, jpeg, png, bmp ou gif | MEDIA |
+|RNF-009| O sistema deverá ser desenvolvido na linguagem C# | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
