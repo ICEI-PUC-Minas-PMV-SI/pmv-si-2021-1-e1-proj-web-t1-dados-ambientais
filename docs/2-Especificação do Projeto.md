@@ -54,6 +54,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com O.S. Windows, Linux e macOS | ALTA |
 |RNF-004| O sistema deve respeitar o tempo máximo de 160 segundos durante processamentos | MEDIA |
 
+
+|ID     |  Nome  | Descrição do Requisito  | Categoria| |Prioridade |
+|-------|--------|-------------------------|----------|-------------|
+|RNF-001| Autenticação de usuário para consumo de website| Cada usuário dos website deverá possuir um usuário ativo no sistema.| Segurança | ALTA | 
+
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
