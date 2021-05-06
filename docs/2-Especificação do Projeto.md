@@ -55,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve respeitar o tempo máximo de 160 segundos durante processamentos | MEDIA |
 |RNF-005| A interface deve ser agradável e de fácil utilização | ALTA 
 |RNF-006| O sistema deve ter uma boa usabilidade | MEDIA |
-|RNF-007| O cadastro do usuário não poderá ser realizado caso já exista algum usuário registrado com o mesmo e-mail e login informado | ALTA |
+|RNF-007| Bloquear novo cadastro do usuário caso já exista algum registrado com o mesmo e-mail e login informado | ALTA |
 |RFN-008| As imagens submetidas no sistema deverão estar em um nos formatos jpg, jpeg, png, bmp ou gif | MEDIA |
 |RNF-009| O sistema deverá ser desenvolvido na linguagem C# | ALTA |
 
